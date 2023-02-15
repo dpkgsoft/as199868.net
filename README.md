@@ -1,4 +1,3 @@
-# AS199868.NET
 ## This is technical site for DpkgSoft Computers LLC ASN.
 
 **You can find useful information here:**
